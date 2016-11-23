@@ -1,4 +1,4 @@
-describe("calcExp", function() {
+describe("Функция calcExp", function() {
 
 	it("Функция определена", function() {
 
@@ -22,11 +22,10 @@ describe("calcExp", function() {
 
 });
 
-describe("startCalcExp", function() {
+describe("Функция startCalcExp", function() {
 
 	it("Функция определена", function() {
 
 		expect(startCalcExp).toBeDefined();
 	});
-
 });

@@ -23,7 +23,7 @@ function calcExp(base, exp) {
 	return result;		
 };
 
-function startCalcExp(base, exp) {
+function startCalcExp() {
 
 	var base = prompt('Введите целое число', '');
 
